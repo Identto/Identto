@@ -1,39 +1,21 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:3b4a8c,100:70a5fd&height=220&section=header&text=Identto&fontSize=72&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20.NET%20%E2%80%A2%20Angular%20%E2%80%A2%20Flutter&descSize=20&descAlignY=58" alt="Identto" />
+  <img src="assets/banner.svg" width="100%" alt="Identto — Full-Stack Developer" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=70A5FD&center=true&vCenter=true&width=680&lines=Sistemas+institucionales+con+.NET+%2B+Angular;Apps+m%C3%B3viles+con+Flutter+y+GPS+en+tiempo+real;Datos+en+SQL+Server%2C+PostgreSQL+y+MySQL;Transformaci%C3%B3n+digital+desde+Amazonas%2C+Per%C3%BA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=22&pause=1200&color=3D8FFF&center=true&vCenter=true&width=680&lines=Sistemas+institucionales+con+.NET+%2B+Angular;Apps+m%C3%B3viles+con+Flutter+y+GPS+en+tiempo+real;Datos+en+SQL+Server%2C+PostgreSQL+y+MySQL;Transformaci%C3%B3n+digital+desde+Amazonas%2C+Per%C3%BA" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Chachapoyas-Amazonas%2C%20Per%C3%BA-70a5fd?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1a1b27" alt="Ubicación" />
-  <a href="https://identto.com"><img src="https://img.shields.io/badge/identto.com-1a1b27?style=for-the-badge&logo=googlechrome&logoColor=70a5fd" alt="Web" /></a>
-  <img src="https://ghstats.dev/api/mini?username=Identto&metric=followers&label=Followers&color=bf91f3&style=for-the-badge" alt="Followers" />
-  <img src="https://ghstats.dev/api/visits?username=Identto&repo=Identto&style=for-the-badge" alt="Visitas" />
+  <a href="https://www.linkedin.com/in/aruiz92"><img src="https://img.shields.io/badge/LinkedIn-aruiz92-3D8FFF?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMSIgeT0iMSIgd2lkdGg9IjIyIiBoZWlnaHQ9IjIyIiByeD0iNCIgZmlsbD0iI2ZmZiIvPjxwYXRoIGZpbGw9IiMwQTY2QzIiIGQ9Ik01LjM1IDE3LjJWOS4wN0g4LjJWMTcuMlpNNi43NyA4LjE3UTUuOTkgOC4xNyA1LjUxIDcuNzNRNS4wMyA3LjMgNS4wMyA2LjY1UTUuMDMgNi4wMSA1LjUxIDUuNThRNS45OSA1LjE0IDYuNzcgNS4xNFE3LjU1IDUuMTQgOC4wMyA1LjU1UTguNTEgNS45NiA4LjUxIDYuNjFROC41MSA3LjI5IDguMDQgNy43M1E3LjU3IDguMTcgNi43NyA4LjE3WiBNMTAuMDQgMTcuMlY5LjA3SDEyLjc2VjExLjM4TDEyLjIzIDEwLjdRMTIuNyA5LjgyIDEzLjUxIDkuMzhRMTQuMzIgOC45MyAxNS4zNCA4LjkzUTE2LjI4IDguOTMgMTcuMDUgOS4zMlExNy44MSA5LjcgMTguMjYgMTAuNDlRMTguNyAxMS4yOSAxOC43IDEyLjU1VjE3LjJIMTUuODVWMTMuMDJRMTUuODUgMTIuMTQgMTUuNSAxMS43NVExNS4xNCAxMS4zNSAxNC41MSAxMS4zNVExNC4wNiAxMS4zNSAxMy42OSAxMS41NVExMy4zMSAxMS43NSAxMy4xIDEyLjE3UTEyLjg5IDEyLjU5IDEyLjg5IDEzLjI3VjE3LjJaIi8%2BPC9zdmc%2B&labelColor=02050B" alt="LinkedIn" /></a>
+  <a href="mailto:identto.digital@gmail.com"><img src="https://img.shields.io/badge/Email-identto.digital%40gmail.com-3D8FFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=02050B" alt="Email" /></a>
+  <a href="https://identto.com"><img src="https://img.shields.io/badge/Web-identto.com-3D8FFF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=02050B" alt="Web" /></a>
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mí
-
-```csharp
-public sealed record Developer
-{
-    public string   Alias    => "Identto";
-    public string   Role     => "Full-Stack Developer";
-    public string   Location => "Chachapoyas, Amazonas — Perú";
-
-    public string[] Backend  => [".NET", "C#", "PHP", "Laravel"];
-    public string[] Frontend => ["Angular", "TypeScript", "JavaScript", "Astro", "WordPress"];
-    public string[] Mobile   => ["Flutter", "Dart"];
-    public string[] Data     => ["SQL Server", "PostgreSQL", "MySQL"];
-    public string[] Infra    => ["Ubuntu", "Nginx", "Cloudflare", "PowerShell"];
-
-    public string   Focus    => "Sistemas institucionales, rastreo GPS y plataformas SaaS";
-}
-```
 
 - 🔭 Desarrollo sistemas web y móviles para la gestión universitaria y del sector público.
 - ⚡ Trabajando con **.NET 10**, **Angular** e integración de **IA** en aplicaciones de negocio.
@@ -82,24 +64,19 @@ public sealed record Developer
 
 ---
 
-## 📊 Estadísticas
+## 🐍 Contribuciones
 
-<p align="center">
-  <img height="180" src="https://ghstats.dev/api/card?username=Identto&theme=tokyonight&show_icons=true&show_ring=true&hide_border=true" alt="GitHub Stats" />
-  <img height="180" src="https://ghstats.dev/api/langs?username=Identto&theme=tokyonight&layout=donut&max_langs=8&hide_border=true" alt="Lenguajes" />
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Identto/Identto/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Identto/Identto/output/github-snake.svg" />
+    <img alt="Snake de contribuciones de Identto" src="https://raw.githubusercontent.com/Identto/Identto/output/github-snake.svg" />
+  </picture>
+</div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Identto&theme=tokyonight&hide_border=true&locale=es" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://ghstats.dev/api/sparkline?username=Identto&days=30&width=800&line_color=70a5fd&hide_border=true" alt="Actividad últimos 30 días" />
-</p>
-
----
+<br />
 
 <!-- ===================== FOOTER ===================== -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,50:3b4a8c,100:1a1b27&height=120&section=footer" alt="footer" />
+  <a href="mailto:identto.digital@gmail.com"><img src="assets/footer.svg" width="100%" alt="¿Tienes un proyecto en mente? Conversemos" /></a>
 </p>
